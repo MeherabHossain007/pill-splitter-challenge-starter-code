@@ -1,4 +1,4 @@
-import PillSplitter from "./PillSlitter"
+import PillSplitter from "./PillSplitter"
 
 function App() {
   return (
